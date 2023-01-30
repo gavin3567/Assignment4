@@ -1,0 +1,18 @@
+﻿body {
+    font-family:Arial
+}
+label {
+    font-size: 21px;
+    color:slategray;
+    width: 145px;
+    display: inline-block;
+}
+
+textarea {
+    font-size: 21px;
+}
+
+span {
+    font-size: 21px;
+    color:darkslateblue;
+}
